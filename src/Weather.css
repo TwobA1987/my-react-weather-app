@@ -1,0 +1,17 @@
+.Weather {
+  padding: 10px;
+  padding-top: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+  background-image: linear-gradient(to top, #defcf9, #cadefc, #c3bef0, #cca8e9);
+}
+.Weather h1,
+h2,
+h3,
+h4 {
+  color: #616263;
+}
+.Weather img {
+  width: 225;
+  height: 225;
+}
