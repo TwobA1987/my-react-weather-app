@@ -11,6 +11,9 @@ h3,
 h4 {
   color: #616263;
 }
+.Weather h1 {
+  font-size: 80px;
+}
 .Weather img {
   width: 225;
   height: 225;
