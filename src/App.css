@@ -3,3 +3,9 @@
   text-align: center;
   max-width: 600px;
 }
+.App footer {
+  font-size: 13px;
+}
+.App footer a {
+  text-decoration: none;
+}
