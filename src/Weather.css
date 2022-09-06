@@ -9,12 +9,23 @@
 h2,
 h3,
 h4 {
-  color: #616263;
+  color: #6b7279;
 }
 .Weather h1 {
   font-size: 80px;
+  display: inline;
 }
 .Weather img {
   width: 225;
   height: 225;
+}
+.Weather .unit {
+  position: relative;
+  top: -40px;
+  left: 10px;
+  color: #6b7279;
+  font-size: 20px;
+}
+.Weather a {
+  text-decoration: none;
 }
