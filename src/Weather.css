@@ -3,17 +3,16 @@
   padding-top: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
+  font-family: Cerebri-Sans, Helvetica, Arial, sans-serif;
   background-image: linear-gradient(to top, #defcf9, #cadefc, #c3bef0, #cca8e9);
-}
-.Weather h1,
-h2,
-h3,
-h4 {
-  color: #6b7279;
 }
 .Weather h1 {
   font-size: 80px;
   display: inline;
+}
+.Weather h2 {
+  font-size: 40px;
+  color: white;
 }
 .Weather img {
   width: 225;
@@ -23,9 +22,17 @@ h4 {
   position: relative;
   top: -40px;
   left: 10px;
-  color: #6b7279;
   font-size: 20px;
 }
 .Weather a {
   text-decoration: none;
+}
+.Weather .hum-wind-press {
+  opacity: 0.6;
+}
+.Weather .hum-wind-press-values {
+  color: #ec6e4c;
+}
+.Weather .btn {
+  background-color: blueviolet;
 }

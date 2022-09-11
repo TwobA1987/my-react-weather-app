@@ -2,3 +2,11 @@
   width: 200px;
   height: 200px;
 }
+.WeatherInfo .description {
+  margin-bottom: 20px;
+  color: #ffffff;
+  font-size: 20px;
+}
+.WeatherInfo .max-min-temp {
+  opacity: 0.6;
+}
